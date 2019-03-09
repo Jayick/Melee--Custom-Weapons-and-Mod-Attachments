@@ -2,7 +2,7 @@
 
 ![GameLogo](https://gamepedia.cursecdn.com/7daystodie_gamepedia/thumb/1/1f/OfficalWiki.png/600px-OfficalWiki.png?version=53cf53a4d2849bbdabf215f58b3b43ef)
 
-![Banner](https://i.imgur.com/sVU7tZZ.png}
+![Banner](https://i.imgur.com/sVU7tZZ.png)
 ## Requirements:
 Requires Alpha 17 version of 7 Days to Die. Will not work on A16.4 or lesser.
 Suggested for heavy AOE particles that you have decent framerates. Pixel textures on fire may cause FPS drops in lower end clients.
