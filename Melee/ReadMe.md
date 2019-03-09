@@ -14,7 +14,11 @@ Fully craftable, gated by progression, added to open world loot table, fully rep
 This entire mod is written in xpath, no edits needed to any core files. Sadly, no localization.txt yet, so no in game info text menu. All other UI works/functions perfectly.
 
 [Preview Video](https://youtu.be/Tu8T2gCQu2w)
+
+
 [JaWoodles amazing showcase](https://youtu.be/UmuZJEh1yoc)
+
+
 ## Crafting requirements and information:
 ![Image](https://i.imgur.com/ig6fyFu.png)
 ## CRAFTING COSTS:
