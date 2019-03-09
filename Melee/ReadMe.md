@@ -14,13 +14,27 @@ Fully craftable, gated by progression, added to open world loot table, fully rep
 This entire mod is written in xpath, no edits needed to any core files. Sadly, no localization.txt yet, so no in game info text menu. All other UI works/functions perfectly.
 
 [Preview Video](https://youtu.be/Tu8T2gCQu2w)
+[JaWoodles Video](https://youtu.be/UmuZJEh1yoc)
+[Veduis Video](https://www.youtube.com/watch?v=mu69d6WxdeE)
 
+## How this mod works:
 
-[JaWoodles amazing showcase](https://youtu.be/UmuZJEh1yoc)
+Custom Weapons are an amazing thing, very easy to do! With lots of amazing work out there, and much more coming, I wanted to set my focus entirely on the Mod aspects of Weaponry in 7 Days to Die. After pouring hundreds of hours into some amazing artistic work, we have some really visually stunning, and game fitting mods. 
 
+## There are 3 main types of "Mods". 
+- Physical Mods: These will cause heavy bleeds, single target hits, additional damage to certain materials, and all around damage based effects.
+- Casing Mods: Recolored textures for most weapons. Magma, Poison, Tempered, Electric, and Golden Casements are available for your custom color selection. Custom done by yours truly, I went for a more worn-down rustic feeling for some of these skins, to give them a more fitting appearance for 7dtd. Some of them are well polished, and shine beautiful, and some are a little more Rustic and worn.
+- Particle Mods: Particle mods are the highlight of this mod work. They are very unique, and compliment end-game horde fighting VERY well. Most mods are tied to AOE damage on Right Click, so chaining lighting, or fire to a group of zombies is possible! This will cost you quite a bit of stamina, but can greatly help with overwhelming situations! There are also mods for basic harvesting, and exploring. Poison and Smoke being a highly effective stealth tools. There are some mods that "repeat", such as Death, and Death Blade. For now, every mod is pretty much open to every high-end weapon. I designed some to fit better to bladed type weapons, and some to fit better on blunt objects and such. It is really up to the user which "type" they prefer to have visually.
 
-## Crafting requirements and information:
+## TOOLS:
+There are a few tools in the mod to compliment TFP's version of tools. With the Hand Axe and Ice Pick being faster, but less damage, and less stamina use, this will hopefully open players up a bit for tool selection with harvesting. 
+Crowbar and Salvaged Axe are special. They are much like the Sledgehammer, they do high block damage, with no return on resources. They are designed to be looting/clearing tools, rather then harvesting tools. 
+
+## Crafting/Research requirements and information:
+For this mod, we went a little more unique and created an entire new perk system. Eventually, this will be expanded on greatly, with other skills and perks to compliment this project as it develops further.
 ![Image](https://i.imgur.com/ig6fyFu.png)
+
+
 ## CRAFTING COSTS:
 
 All Particle Effect mods will require Animal Fat, and some other minor resource to compliment it. Some have very strong AOE procs, so resource cost will reflect this.
