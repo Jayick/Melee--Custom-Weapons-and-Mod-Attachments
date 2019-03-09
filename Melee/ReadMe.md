@@ -13,9 +13,9 @@ Custom Melee Weapons and Particle Attachments.
 Fully craftable, gated by progression, added to open world loot table, fully repairable/modable, custom particle effects, AOE effects, textured skinscustom damage and modifiers.
 This entire mod is written in xpath, no edits needed to any core files. Sadly, no localization.txt yet, so no in game info text menu. All other UI works/functions perfectly.
 
-[Preview Video](https://youtu.be/Tu8T2gCQu2w)
-[JaWoodles Video](https://youtu.be/UmuZJEh1yoc)
-[Veduis Video](https://www.youtube.com/watch?v=mu69d6WxdeE)
+- [Preview Video](https://youtu.be/Tu8T2gCQu2w)
+- [JaWoodles Video](https://youtu.be/UmuZJEh1yoc)
+- [Veduis Video](https://www.youtube.com/watch?v=mu69d6WxdeE)
 
 ## How this mod works:
 
