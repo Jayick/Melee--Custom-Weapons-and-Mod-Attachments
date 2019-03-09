@@ -34,7 +34,7 @@ Most common resources used:
 - Animal Fat
 - Fiber
 - Bones and Flesh
-
+![Image](https://i.imgur.com/f60PQ9a.png)
 ____Will edit more in the AM. Good enough
 
 
